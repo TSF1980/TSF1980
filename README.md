@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @TSF1980
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+TSF1980/TSF1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Título do Projeto: Descobrindo a IA Generativa pela primeira vez
+Descrição: Busquei aplicar as técnicas e informações fornecidas até agora no curso para tentar criar um avatar com minha própria foto pela primeira vez em uma das ferramentas gratuitas disponíveis na internet.
+Tecnologia utilizada: Utilizei uma das IAs generativas através da ferramenta CANVAS, que é um gerador gratuito de arte por inteligência artificial que interpreta e ilustra textos.
+Processo de criação: Fiz uma busca no google para saber qual ferramenta utilizar gratuitamente para criar um video com meu avatar e voz de outra pessoa. nessa busca descobri o CANVAS. Então bati uma foto minha e encaminhei ao meu e-mail pessoal, baixei essa foto no meu PC e em seguida fiz o dowload dela no CANVAS para utilizar como avatar....em seguida, escrevi o texto que eu gostaria que meu avatar dissesse, depois prévisualizei a fala e gerei o avtar de apresentação.
+Apresentar o resultado do projeto: O resultado foi um vídeo com meu avatar com cerca de 22 segundos de gravação.
+Reflexão: Para mim que sou completamente leiga no tema e estou aprendendo tudo do zero foi bastante desafiador, mas ao mesmo tempo promissor....Na verdade, essa atividade me incentivou a aprender ainda mais porque acabei descobrindo que consigo fazer o que for proposto.
+https://www.canva.com/design/DAGXWj3YYb0/nlPLux-R3Knx_UOpz7t9Ag/edit?utm_content=DAGXWj3YYb0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
